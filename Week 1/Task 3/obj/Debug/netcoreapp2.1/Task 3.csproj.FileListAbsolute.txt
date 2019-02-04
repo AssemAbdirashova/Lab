@@ -1,0 +1,11 @@
+C:\Users\Дакотти\Desktop\Week 1\ConsoleApp1\bin\Debug\netcoreapp2.1\Task 3.deps.json
+C:\Users\Дакотти\Desktop\Week 1\ConsoleApp1\bin\Debug\netcoreapp2.1\Task 3.runtimeconfig.json
+C:\Users\Дакотти\Desktop\Week 1\ConsoleApp1\bin\Debug\netcoreapp2.1\Task 3.runtimeconfig.dev.json
+C:\Users\Дакотти\Desktop\Week 1\ConsoleApp1\bin\Debug\netcoreapp2.1\Task 3.dll
+C:\Users\Дакотти\Desktop\Week 1\ConsoleApp1\bin\Debug\netcoreapp2.1\Task 3.pdb
+C:\Users\Дакотти\Desktop\Week 1\ConsoleApp1\obj\Debug\netcoreapp2.1\Task 3.csprojAssemblyReference.cache
+C:\Users\Дакотти\Desktop\Week 1\ConsoleApp1\obj\Debug\netcoreapp2.1\Task 3.csproj.CoreCompileInputs.cache
+C:\Users\Дакотти\Desktop\Week 1\ConsoleApp1\obj\Debug\netcoreapp2.1\Task 3.AssemblyInfoInputs.cache
+C:\Users\Дакотти\Desktop\Week 1\ConsoleApp1\obj\Debug\netcoreapp2.1\Task 3.AssemblyInfo.cs
+C:\Users\Дакотти\Desktop\Week 1\ConsoleApp1\obj\Debug\netcoreapp2.1\Task 3.dll
+C:\Users\Дакотти\Desktop\Week 1\ConsoleApp1\obj\Debug\netcoreapp2.1\Task 3.pdb
