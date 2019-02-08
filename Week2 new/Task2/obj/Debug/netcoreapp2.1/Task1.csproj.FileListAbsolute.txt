@@ -1,0 +1,22 @@
+C:\Users\Дакотти\Desktop\PP2\PP2(week2)\week 2\week2\Task2\bin\Debug\netcoreapp2.1\Task1.deps.json
+C:\Users\Дакотти\Desktop\PP2\PP2(week2)\week 2\week2\Task2\bin\Debug\netcoreapp2.1\Task1.runtimeconfig.json
+C:\Users\Дакотти\Desktop\PP2\PP2(week2)\week 2\week2\Task2\bin\Debug\netcoreapp2.1\Task1.runtimeconfig.dev.json
+C:\Users\Дакотти\Desktop\PP2\PP2(week2)\week 2\week2\Task2\bin\Debug\netcoreapp2.1\Task1.dll
+C:\Users\Дакотти\Desktop\PP2\PP2(week2)\week 2\week2\Task2\bin\Debug\netcoreapp2.1\Task1.pdb
+C:\Users\Дакотти\Desktop\PP2\PP2(week2)\week 2\week2\Task2\obj\Debug\netcoreapp2.1\Task1.csprojAssemblyReference.cache
+C:\Users\Дакотти\Desktop\PP2\PP2(week2)\week 2\week2\Task2\obj\Debug\netcoreapp2.1\Task1.csproj.CoreCompileInputs.cache
+C:\Users\Дакотти\Desktop\PP2\PP2(week2)\week 2\week2\Task2\obj\Debug\netcoreapp2.1\Task1.AssemblyInfoInputs.cache
+C:\Users\Дакотти\Desktop\PP2\PP2(week2)\week 2\week2\Task2\obj\Debug\netcoreapp2.1\Task1.AssemblyInfo.cs
+C:\Users\Дакотти\Desktop\PP2\PP2(week2)\week 2\week2\Task2\obj\Debug\netcoreapp2.1\Task1.dll
+C:\Users\Дакотти\Desktop\PP2\PP2(week2)\week 2\week2\Task2\obj\Debug\netcoreapp2.1\Task1.pdb
+C:\Users\Дакотти\Desktop\PP2\PP2(week2)\week2\Task2\bin\Debug\netcoreapp2.1\Task1.deps.json
+C:\Users\Дакотти\Desktop\PP2\PP2(week2)\week2\Task2\bin\Debug\netcoreapp2.1\Task1.runtimeconfig.json
+C:\Users\Дакотти\Desktop\PP2\PP2(week2)\week2\Task2\bin\Debug\netcoreapp2.1\Task1.runtimeconfig.dev.json
+C:\Users\Дакотти\Desktop\PP2\PP2(week2)\week2\Task2\bin\Debug\netcoreapp2.1\Task1.dll
+C:\Users\Дакотти\Desktop\PP2\PP2(week2)\week2\Task2\bin\Debug\netcoreapp2.1\Task1.pdb
+C:\Users\Дакотти\Desktop\PP2\PP2(week2)\week2\Task2\obj\Debug\netcoreapp2.1\Task1.csprojAssemblyReference.cache
+C:\Users\Дакотти\Desktop\PP2\PP2(week2)\week2\Task2\obj\Debug\netcoreapp2.1\Task1.csproj.CoreCompileInputs.cache
+C:\Users\Дакотти\Desktop\PP2\PP2(week2)\week2\Task2\obj\Debug\netcoreapp2.1\Task1.AssemblyInfoInputs.cache
+C:\Users\Дакотти\Desktop\PP2\PP2(week2)\week2\Task2\obj\Debug\netcoreapp2.1\Task1.AssemblyInfo.cs
+C:\Users\Дакотти\Desktop\PP2\PP2(week2)\week2\Task2\obj\Debug\netcoreapp2.1\Task1.dll
+C:\Users\Дакотти\Desktop\PP2\PP2(week2)\week2\Task2\obj\Debug\netcoreapp2.1\Task1.pdb
